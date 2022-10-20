@@ -1,0 +1,33 @@
+/* styling the body element like body colour and margin 
+*/
+body{
+    background-color: aquamarine;
+    margin: 40px;
+}
+/* styling the tittle and giving shadow to the tittle */
+.title{
+    text-align: center;
+    font-size: 45px;
+    text-shadow: 5px 5px 10px rgb(220, 41, 41);
+}
+/* setting the width and border-radius of img
+ */
+.frankphoto{
+    width: 200px;
+    height: auto;
+    border-radius: 100px;
+}
+/* align the title and the img to center */
+header >div{
+text-align: center;
+}
+/* giving colour to the main backgroud */
+main{
+    background-color: aqua;
+    box-shadow: 20px 20px 20px cornsilk;
+    padding: 20px;
+    font-family: Georgia;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
